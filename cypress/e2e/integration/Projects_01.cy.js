@@ -136,6 +136,7 @@ describe('Cypress-Project-01' , () => {
 
     cy.visit('https://www.techglobal-training.com/frontend/project-1');
   })
+  //
   
   
   
