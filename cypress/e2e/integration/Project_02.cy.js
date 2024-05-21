@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-  describe('Project02 Validate Techglobal-training frontend page', () => {
+describe('Project02 Validate Techglobal-training frontend page', () => {
 
     beforeEach(() => {
         cy.visit('https://techglobal-training.com/frontend/project-2');
